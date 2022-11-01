@@ -2,7 +2,7 @@
 - 👀 I’m interested in Studying
 - 🌱 I’m currently learning Ysoft and Azure
 - 💞️ I’m looking to collaborate on (searching)
-- 📫 How to reach me just dm
+- 📫 How to reach me ?
 
 <!---
 greiss19/greiss19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
